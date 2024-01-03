@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Walid Helaoui, Software Engineer 
-- 👀 I’m interested in Web/Mobile Dev, JavaScript Ecosystem, Problem Solving, Code Quality, CI/CD, Automated Testing
-- 💞️ I’m looking to collaborate for open source projects, freelancing..
+- 👀 I’m interested in Web Dev, JavaScript Ecosystem, Problem Solving, Code Quality, CI/CD, Automated Testing
+- 💞️ I’m looking to collaborate for open source projects, and freelancing...
 - 📫 How to reach me email: he.walid@gmail.com
 
 <!---
