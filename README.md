@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Walid Helaoui, Software Engineer 
-- 👀 I’m interested in Web Dev, JavaScript Ecosystem, Problem Solving, Code Quality, CI/CD, Automated Testing
+- 👋 Hi, I’m Walid Helaoui, Software Engineer - Full Stack
+- 👀 I’m interested in Agentic AI, Cloud Native Development, Distributed Systems
 - 💞️ I’m looking to collaborate for open source projects, and freelancing...
 - 📫 How to reach me email: he.walid@gmail.com
 
